@@ -1,0 +1,9 @@
+{
+	"name": "df-pipeline-entrevista",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99513277-ce43-4e73-a2a7-1478bf10cf3c",
+		"tenantId": "568fe877-d6b3-43d9-bda0-26978a6b0f9c"
+	}
+}
